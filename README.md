@@ -51,6 +51,5 @@ It includes a .NET 10 backend, an Angular 18 dashboard, a Blazor WebAssembly adm
 ### DevOps & Tools
 - Docker / Docker Compose
 - Git & GitHub Actions
-- VS Code / Visual Studio
 
 ---
