@@ -1,4 +1,4 @@
-# SkillSync — Fullstack Training & Skill Management Platform
+# SkillSync : Fullstack Training & Skill Management Platform
 
 SkillSync is a full-stack enterprise-style application for managing employees, trainings, and AI-powered skill evaluations.  
 It includes a .NET 10 backend, an Angular 18 dashboard, a Blazor WebAssembly admin module, PostgreSQL, S3/Ceph file storage, and a TorchSharp AI model.
