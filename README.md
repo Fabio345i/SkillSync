@@ -33,7 +33,7 @@ It includes a .NET 10 backend, an Angular 18 dashboard, a Blazor WebAssembly adm
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - .NET 10 (ASP.NET Core Web API)
